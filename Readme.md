@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="./docs/project-banner.svg" width="100%" alt="Banner PROGRAMAÇÃO WEB">
+</div>
+
+<div align="center">
 
 # P R O G R A M A Ç Ã O　W E B
 
