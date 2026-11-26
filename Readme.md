@@ -1,4 +1,76 @@
-# 🔴 Programação Web
+<div align="center">
+
+# P R O G R A M A Ç Ã O　W E B
+
+### `HTML • CSS • JAVASCRIPT • PHP`
+
+**Laboratório acadêmico de desenvolvimento web: páginas, formulários, scripts e frameworks CSS.**
+
+![HTML5](https://img.shields.io/badge/HTML5-0B1020?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0B1020?style=for-the-badge&logo=css&logoColor=1572B6)
+![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-0B1020?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-0B1020?style=for-the-badge&logo=php&logoColor=777BB4)
+
+`FATEC` · `ADS` · `BACKEND / LAB`
+
+[Visão geral](#visao-geral) · [Módulos](#modulos) · [Arquitetura](#arquitetura) · [Execução](#execucao)
+
+</div>
+
+---
+
+<a id="visao-geral"></a>
+
+## `PROJECT // VISÃO GERAL`
+
+Laboratório acadêmico de desenvolvimento web: páginas, formulários, scripts e frameworks CSS.
+
+## `SYSTEM // STATUS`
+
+| Componente | Situação no repositório |
+| :--- | :---: |
+| Arquivos HTML de exemplos progressivos | `● DOCUMENTADO` |
+| Exercícios JavaScript em `javaScript/` | `● DOCUMENTADO` |
+| Introdução ao PHP na pasta `PHP/` | `● DOCUMENTADO` |
+| Currículo web em `Trabalho_curriculo/` | `● DOCUMENTADO` |
+| Exemplos de Bootstrap, Materialize e Pure CSS | `● DOCUMENTADO` |
+
+<a id="modulos"></a>
+
+## `CORE // CONTEÚDO`
+
+- Arquivos HTML de exemplos progressivos
+- Exercícios JavaScript em `javaScript/`
+- Introdução ao PHP na pasta `PHP/`
+- Currículo web em `Trabalho_curriculo/`
+- Exemplos de Bootstrap, Materialize e Pure CSS
+
+<a id="arquitetura"></a>
+
+## `ARCHITECTURE // FLUXO CONCEITUAL`
+
+```mermaid
+flowchart LR
+  A["Exemplos HTML"] --> B["Estilos CSS"]; B --> C["JavaScript / DOM"]; A --> D["Formulários"]; D --> E["Exercícios PHP"]
+```
+
+<a id="execucao"></a>
+
+## `BOOT SEQUENCE // EXECUÇÃO LOCAL`
+
+```bash
+git clone https://github.com/gilbertocorrea-cmd/Programacao-web.git
+cd Programacao-web
+```
+
+Abra os arquivos HTML diretamente no navegador ou use um servidor HTTP local. Exemplos PHP precisam de um interpretador/servidor PHP; abrir arquivos `.php` como HTML não executa o processamento.
+
+A documentação detalhada original foi mantida abaixo.
+
+---
+
+## `DOCUMENTATION // DETALHES ORIGINAIS`
+
 
 > Construindo a base do desenvolvimento para a Web.
 
@@ -251,3 +323,15 @@ Disciplina: Programação Web
 
 > [!TIP]
 > Disciplina concluída e mantida como registro da evolução acadêmica em desenvolvimento web e tecnologias voltadas para aplicações web modernas.
+
+---
+
+<div align="center">
+
+## `PROGRAMACAO WEB // BUILD • LEARN • EVOLVE`
+
+**Gilberto Corrêa** · ADS — FATEC
+
+[GitHub](https://github.com/gilbertocorrea-cmd)
+
+</div>
